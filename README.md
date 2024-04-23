@@ -150,8 +150,8 @@ Open-source is hard! If you happen to like this project and want me to keep goin
 
 <div align="center">
   <img src="./public/footer.png" />
-  <em>Made with ❤️ by <a href="https://telegram.me/Chiheisen">Chiheisen</a></em>
-  <em>Based On <a href="https://github.com/spencerwooo/Chiheisen-Vercel-Index">OneDrive-Vercel-Index</a></em>
+  <em>Made with ❤️ by <a href="[https://telegram.me/Chiheisen](https://t.me/cinemaluxeupdates)">Cinemaluxe</a></em>
+  <em>Based On <a href="https://cinemaluxe.autos">OneDrive-Vercel-Index</a></em>
 </div>
 
 ## Credits
